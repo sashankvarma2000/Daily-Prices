@@ -1,1 +1,1 @@
-# Daily-Prices
+# Natural gas price prediction
